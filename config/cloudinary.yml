@@ -1,0 +1,18 @@
+development:
+  cloud_name: Your_Cloud_Name
+  api_key: Your_Api_Key
+  api_secret: Your_Api_Secret
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: Your_Cloud_Name
+  api_key: Your_Api_Key
+  api_secret: Your_Api_Secret
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: Your_Cloud_Name
+  api_key: Your_Api_Key
+  api_secret: Your_Api_Secret
+  enhance_image_tag: true
+  static_image_support: false
